@@ -93,6 +93,10 @@ The package contains the full WordPress plugin folder, including the plugin PHP 
 5. Activate the plugin.
 6. Open **RavenHawkTech → YouTube Showcase** in WordPress Admin.
 
+## Support RavenHawkTech
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/wbakke7496c)
+
 ## RavenHawkTech
 
 Website: https://ravenhawktech.com
