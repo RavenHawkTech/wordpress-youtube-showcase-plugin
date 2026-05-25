@@ -2,7 +2,7 @@
 
 Styled WordPress YouTube showcase plugin with shortcode support, RSS-first loading, API fallback, cache controls, and tabbed admin color settings.
 
-This repository contains the RavenHawk YouTube Showcase plugin package, update manifest, and repository documentation for RavenHawkTech.
+This repository contains the RavenHawk YouTube Showcase plugin package, update manifest, screenshots, and repository documentation for RavenHawkTech.
 
 ## Current Version
 
@@ -19,6 +19,20 @@ This repository contains the RavenHawk YouTube Showcase plugin package, update m
 - Tabbed admin page with General Settings and Style / Colors
 - Editable colors and border-radius controls
 - GitHub manifest-based update metadata
+
+## Screenshots
+
+### General Settings
+
+![RavenHawk YouTube Showcase general settings](screenshots/youtube-showcase-general-settings.png)
+
+### Style / Colors
+
+![RavenHawk YouTube Showcase style and colors](screenshots/youtube-showcase-style-colors.png)
+
+### Frontend Preview
+
+![RavenHawk YouTube Showcase frontend preview](screenshots/youtube-showcase-frontpage-preview.png)
 
 ## Shortcode
 
@@ -56,9 +70,14 @@ This repository tracks the plugin package instead of the extracted plugin source
 ├─ README.md
 ├─ SECURITY.md
 ├─ COPYRIGHT.md
-├─ .gitignore
+├─ gitignore.txt
 ├─ releases/
 │  └─ ravenhawk-youtube-showcase.zip
+├─ screenshots/
+│  ├─ README.md
+│  ├─ youtube-showcase-general-settings.png
+│  ├─ youtube-showcase-style-colors.png
+│  └─ youtube-showcase-frontpage-preview.png
 └─ updates/
    └─ ravenhawk-youtube-showcase.json
 ```
