@@ -1,0 +1,21 @@
+{
+  "name": "RavenHawk YouTube Showcase",
+  "slug": "ravenhawk-youtube-showcase",
+  "version": "2.1.0",
+  "build": "tabbed-admin",
+  "release_title": "RavenHawk YouTube Showcase v2.1.0",
+  "download_url": "https://github.com/RavenHawkTech/wordpress-youtube-showcase-plugin/releases/download/ravenhawk-youtube-showcase-v2.1.0/ravenhawk-youtube-showcase.zip",
+  "homepage": "https://github.com/RavenHawkTech/wordpress-youtube-showcase-plugin",
+  "requires": "6.2",
+  "tested": "6.8",
+  "requires_php": "8.0",
+  "last_updated": "2026-05-25",
+  "author": "RavenHawkTech",
+  "author_profile": "https://ravenhawktech.com",
+  "sha256": "242d41d5b606a3bd79fa285146aa9b14e27a32f545abe6013303ad770b258cd6",
+  "sections": {
+    "description": "Styled WordPress YouTube showcase plugin with shortcode support, RSS-first loading, API fallback, cache controls, and editable colors. Visit https://ravenhawktech.com for RavenHawkTech.",
+    "installation": "Upload the plugin ZIP in WordPress and activate it. Open RavenHawkTech → YouTube Showcase to configure YouTube and style settings.",
+    "changelog": "<h4>2.1.0</h4><ul><li>Added tabbed admin settings layout.</li><li>Separated General Settings and Style / Colors.</li><li>Preserved editable color and radius controls.</li></ul><h4>2.0.0</h4><ul><li>Moved plugin admin navigation under the RavenHawkTech parent menu.</li><li>Added editable color and border-radius controls.</li><li>Added RavenHawkTech admin menu and heading icons.</li><li>Preserved existing RSS/API video loading behavior.</li></ul>"
+  }
+}
