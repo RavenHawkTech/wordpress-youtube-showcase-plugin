@@ -6,7 +6,7 @@ This repository contains the RavenHawk YouTube Showcase plugin package, update m
 
 ## Current Version
 
-**v2.1.0**
+**v1.2.5**
 
 ## Features
 
@@ -72,7 +72,7 @@ This repository tracks the plugin package instead of the extracted plugin source
 ├─ COPYRIGHT.md
 ├─ gitignore.txt
 ├─ releases/
-│  └─ ravenhawk-youtube-showcase.zip
+│  └─ ravenhawk-youtube-showcase-v1.2.5.zip
 ├─ screenshots/
 │  ├─ README.md
 │  ├─ youtube-showcase-general-settings.png
